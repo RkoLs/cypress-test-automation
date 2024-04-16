@@ -1,4 +1,5 @@
 Cypress Test Automation
+
 Este repositório contém um projeto de automação de testes utilizando o framework Cypress para testar o processo de cadastro em uma aplicação web.
 
 Estrutura do Projeto
