@@ -5,7 +5,7 @@ Este repositório contém um projeto de automação de testes utilizando o frame
 ## Estrutura do Projeto
 O projeto está estruturado da seguinte forma:
 
-- `cypress`: Contém os arquivos de teste e suporte do Cypress.
+  - `cypress`: Contém os arquivos de teste e suporte do Cypress.
   - `cypress/support`: Contém arquivos de suporte, como comandos personalizados e utilitários.
   - `cypress/integration`: Contém os arquivos de teste Cypress.
   - `cypress/fixtures`: Contém arquivos de dados de teste.
