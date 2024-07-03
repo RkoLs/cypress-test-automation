@@ -94,8 +94,8 @@ describe('Acessar página inicial e realizar cadastro sem sucesso', () => {
 
 
         // Act
-        // Aqui você pode simular um cadastro sem preencher todos os campos obrigatórios
+        // Simular um cadastro sem preencher todos os campos obrigatórios
 
-        // Assert: Adicione asserções aqui para verificar se o cadastro não foi realizado devido a campos obrigatórios não preenchidos
+        // Assert: Adicionar asserções para verificar se o cadastro não foi realizado devido a campos obrigatórios não preenchidos
     });
 });*/
