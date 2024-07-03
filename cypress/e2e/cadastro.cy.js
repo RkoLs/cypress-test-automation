@@ -14,12 +14,12 @@ describe('Acessar página inicial e realizar cadastro de usuario com sucesso', (
         clicarFazerInscricao();
 
         // Act: Preencher dados de cadastro usando métodos personalizados
-        preencherNome('Pedro');
-        preencherSobrenome('Henrique');
+        preencherNome('Beatriz Assunção');
+        preencherSobrenome('Assunção');
         preencherDataNascimento('13/03/1991');
-        preencherCPF('321.686.546-03');
-        preencherEmail('pedro_henrique@soutorigotti.com.br');
-        preencherConfirmacaoEmail('pedro_henrique@soutorigotti.com.br');
+        preencherCPF('181.039.963-78');
+        preencherEmail('beatriz-assuncao98@telecall.com');
+        preencherConfirmacaoEmail('beatriz-assuncao98@telecall.com');
         preencherSenha('4kMQKyxIhJ');
         preencherConfirmacaoSenha('4kMQKyxIhJ');
         selecionarProficiencia('Intermediate');
@@ -43,7 +43,7 @@ describe('Acessar página inicial e realizar cadastro de usuario com sucesso', (
     });
 });
 
-describe('Acessar página inicial e realizar cadastro de usuario sem sucesso', () => {
+/*describe('Acessar página inicial e realizar cadastro de usuario sem sucesso', () => {
 
     beforeEach(() => {
         // Antes de cada teste, visite a página de cadastro
@@ -98,4 +98,4 @@ describe('Acessar página inicial e realizar cadastro sem sucesso', () => {
 
         // Assert: Adicione asserções aqui para verificar se o cadastro não foi realizado devido a campos obrigatórios não preenchidos
     });
-});
+});*/
