@@ -34,4 +34,9 @@ O projeto de automação de testes abrange os seguintes cenários:
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para discutir novos recursos, problemas ou enviar um pull request.
 
 ## Autor
-[Richard Leal Kovalski de Lima] - [[LinkedIn](https://www.linkedin.com/in/richardkovalski/)]
+
+- **Richard Leal Kovalski de Lima** - Desenvolvedor do Site
+
+---
+
+_Powered by **_RkoLs_**_
